@@ -1,0 +1,29 @@
+﻿title: Start
+tags:
+position: -72,-464
+---
+Narrator: Oh, hello!
+    -> Hi, where am I?
+    Narrator: You're in Unity!
+    -> Oh.
+        <<jump Oh>>
+    -> How did I get here?
+        <<jump Unity>>
+    -> Who are you and what have you done with grandma?
+        Narrator: You cannot stop me. No one can.
+===
+
+title: Oh
+position: 129,-287
+---
+Narrator: Yeah, fun, right?
+
+->Yes, tell me more!
+    <<jump Unity>>
+===
+
+title: Unity
+position: -75,-71
+---
+Narrator: Someone read the Beginner's Guide!
+===
