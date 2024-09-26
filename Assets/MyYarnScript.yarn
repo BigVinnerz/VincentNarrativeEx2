@@ -2,15 +2,19 @@
 tags:
 position: -72,-464
 ---
-Narrator: Oh, hello!
-    -> Hi, where am I?
-    Narrator: You're in Unity!
-    -> Oh.
-        <<jump Oh>>
-    -> How did I get here?
-        <<jump Unity>>
-    -> Who are you and what have you done with grandma?
-        Narrator: You cannot stop me. No one can.
+Phil: Hey, whats going on here?
+    -> Dad?
+        Phil: Don't dad me you're supposed to be at work, what are you doing here.  
+            -> Nothing, I'm not going in today.
+            Phil: What do you mean your not going in today.
+            Phil: ...
+            Phil: Wait, is that blood all over your hands!
+            Phil: What's going on here, tell me right now.
+                -> LIE: blah blah
+                -> TRUTH: blah blah
+                    <<jump Unity>>
+                    -> Who are you and what have you done with grandma?
+                Phil: You cannot stop me. No one can.
 ===
 
 title: Oh
