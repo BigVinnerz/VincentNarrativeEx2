@@ -2,21 +2,21 @@
 tags:
 position: -121,-816
 ---
-Phil: HEY!, whats going on here?
+Phil: HEY!, what's going on here?
     -> Dad?
-        Phil: Don't dad me your supposed to be at work, what are you doing here.  
+        Phil: Don't dad me your supposed to be at work, what are you doing here?  
             -> Nothing, I'm not going in today.
                 Phil: What do you mean your not going in today...
                 Phil: ...
-                Phil: Wait, is that blood all over your hands!
-                Phil: What's going on here? tell me right now.
+                Phil: Wait a second, is that blood all over your hands!
+                Phil: What's going on here?
                     -> (STAY QUIET)
                         Phil: HELLO!
-                        Phil: Are you listening to me.
+                        Phil: ARE YOU LISTENING TO ME!
                             -> (STAY QUIET)
-                                Phil: Fine then you don't want to say anything to me, I'm calling the cops then.
+                                Phil: Fine you don't want to say anything to me, I'm calling the cops then.
                                     -> (STAY QUIET)
-                                        Phil: That's it I had enough of this, we'll find out one way or another.
+                                        Phil: That's it I had enough of this, I'm going to find out one way or another.
                                             -> No wait dad don't, please.
                                                 <<jump Bad>>
                                     -> (TRUTH) It was nothing dad, just an accident.
@@ -34,16 +34,16 @@ Phil: HEY!, whats going on here?
 title: Truth
 position: -328,-561
 ---
-Phil: It's nothing? Bullshit, it looks like you got into a serious fight or something.
-Phil: Come on you've gotta tell me the truth so i can understand whats going on.
+Phil: It's nothing? Bullshit. It looks like you got into a serious fight or something.
+Phil: Come on you've gotta tell me the truth so i can understand what's going on.
     -> I really don't want to dad, I'm scared you'll despise me as your son.
-        Phil: Despise you? absolutly not, your my son im here for you no matter what.
+        Phil: Despise you? absolutly not, your my son I'm here for you no matter what.
         Phil: You just have to tell me the truth son.
             -> Ok fine...
                  -> Me and Tracy got into a fight about her leaving for college.
                     Phil: Ok...
                          -> I didn't want her going but she kept saying she was going no matter what, and then I just got angrier and angrier.
-                             -> I couldn't stop, everything just turned red and I, I killed her. I killed Tracy.
+                            I couldn't stop, everything just turned red and I, I killed her. I killed Tracy.
                             (WEEPING)
                                 Phil: You killed Tracy?
                                 Phil: WHAT THE FUCK IS WRONG WITH YOU!
@@ -56,9 +56,9 @@ Phil: Come on you've gotta tell me the truth so i can understand whats going on.
 title: Lie
 position: 108,-564
 ---
-Phil: Paint? You think I'm stupid or something, theres a big difference paint and blood.
-    -> Its fucking paint, I'm not lying.
-        Phil: NO! no its not, stop lying to me I'm father I know when your lying.
+Phil: Paint? You think I'm stupid or something? there's a big difference between paint and blood.
+    -> It's fucking paint, I'm not lying.
+        Phil: NO! NO IT'S NOT! stop lying to me I'm your father I know when your lying.
             (...)
             Phil: Fine you don't want to tell me the truth, I'm calling the police. 
                 -> No wait dad don't, please.
@@ -68,11 +68,11 @@ Phil: Paint? You think I'm stupid or something, theres a big difference paint an
 title: Bad
 position: -115,-215
 ---
-Phil: No, you don't want to tell me what happened then the police will find out what happened.
+Phil: No, you don't want to tell me what happened, then the police will find out what happened.
     (DIALING...)
     (BUZZING)
-        -> No no no.
-            Phil: "Yes hello, I need the police here right away, my son is covered with blood and won't tell me why".
+        -> NO NO NO!.
+            Phil: "Yes hello, I need the police here right away, my son is covered in blood and won't tell me why".
                 -> STOP!
                     (TELECON...)
                     (CLICK)
@@ -92,7 +92,7 @@ Phil: No, you don't want to tell me what happened then the police will find out 
 title: Good
 position: -330,-215
 ---
-Phil: Stop crying its gonna be ok, I'm here for you son, we'll figure this out.
+Phil: Stop crying it's going to be ok, I'm here for you son, we'll figure this out.
 Phil: We just gotta get you help, and probably a lawyer.
     (WEEPING)
     -> Ok, ok thanks dad.
